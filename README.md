@@ -74,16 +74,23 @@
 </p>
 
 ## 🔗 Let's Connect
-<p align="left">
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rainzhu.com/)
-</p>
 
-<p align="right">
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rainzhu.com/)
+
+
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainzhu-sfu/)
-</p>
+
 ## 🔭 Statistics
+
+<p align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raincouver&show_icons=true&theme=github_dark_dimmed)
 
+</p>
+
+<p align="right">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raincouver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
