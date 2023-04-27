@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Languages and Tools: (Web Development)</h3>
+<h4 align="left">Web Development: </h4>
 <p  align="left"> 
 
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">    -->
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Languages and Tools: (Data Analytics)</h3>
+<h4 align="left">Data Analytics: </h4>
 <p align="left"> 
 <img src="https://github.com/raincouver/raincouver/blob/main/image/rstudio-macos-clip-art-r.jpg" alt="rstudio" width="40" height="40"/>
 <img src="https://github.com/raincouver/raincouver/blob/main/image/19-190247_core-tidyverse-ggplot2-hex-clipart.png" alt="ggplot2" width="40" height="40"/>
