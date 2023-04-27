@@ -73,8 +73,8 @@
 
 <h4 align="left">Data Analytics: </h4>
 <p align="left"> 
-<img src="https://github.com/raincouver/raincouver/blob/main/image/rstudio-macos-clip-art-r.jpg" alt="rstudio" width="40" height="40"/>
-<img src="https://github.com/raincouver/raincouver/blob/main/image/19-190247_core-tidyverse-ggplot2-hex-clipart.png" alt="ggplot2" width="40" height="40"/>
+<img src="https://github.com/raincouver/raincouver/blob/main/image/RStudio-Logo.png" alt="rstudio" width="40" height="40"/>
+<img src="https://github.com/raincouver/raincouver/blob/main/image/ggplot2.jpg" alt="ggplot2" width="40" height="40"/>
 <img src="https://github.com/raincouver/raincouver/blob/main/image/Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <img src="https://github.com/raincouver/raincouver/blob/main/image/Tableau-Emblem.png" alt="tableau" width="40" height="40"/>
 <img src="https://github.com/raincouver/raincouver/blob/main/image/mysql-workbench-icon.png" alt="mysql" width="40" height="40"/>
