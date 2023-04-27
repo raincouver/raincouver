@@ -50,6 +50,10 @@
 
 <img src="https://github.com/raincouver/raincouver/blob/main/image/npm.png" alt="npm" width="40" height="40"/> 
 
+</p>
+
+<p  align="left"> 
+
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  -->
 <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
