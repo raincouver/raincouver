@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Web Development at **Lighthouse Labs** Graduate in June
+- 🌱 I’m currently learning Web Development at **Lighthouse Labs** 
+      (Expect Graduation: June 2023)
 - 💡 I speak **English & Chinese (Mandarin)**
 
 <h3 align="left">Languages and Tools: (Web Development)</h3>
