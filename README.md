@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi I'm Rain</h1>
-<h3 align="center">Full Stack Developer | Data Analyst </h3>
+<h3 align="center">Full Stack Developer  |  Data Analyst </h3>
 <img align="right" alt="boycoding" width="300" src="https://github.com/raincouver/raincouver/blob/main/image/animated-man-computer-coding.gif"></img>
 <!--
 **raincouver/raincouver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,11 @@
 - ⚡ Fun fact: ...
 --> 
 
+- 💬 Background in Business and data analytics, passionate about artificial intelligence, web and software development
+
 - 🌱 I’m currently learning Web Development at **Lighthouse Labs** 
       (Expect Graduation: June 2023)
+
 - 💡 I speak **English & Chinese (Mandarin)**
 
 <h3 align="left">Languages and Tools:</h3>
