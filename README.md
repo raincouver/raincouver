@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning Web Development at **Lighthouse Labs** Graduate in June
+- 💡 I speak **English & Chinese (Mandarin)**
+
 <h3 align="left">Languages and Tools: (Web Development)</h3>
 <h4 align="left">Web Development: </h4>
 <p  align="left"> 
@@ -69,7 +72,11 @@ Here are some ideas to get you started:
 <img src="https://github.com/raincouver/raincouver/blob/main/image/mysql-workbench-icon.png" alt="mysql" width="40" height="40"/>
 </p>
 
-- 💡 I speak **English & Chinese (Mandarin)**
+## 🔭 Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark_dimmed)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raincouver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Let's Connect
 
