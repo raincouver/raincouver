@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raincouver&show_icons=true&theme=github_dark_dimmed)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raincouver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
