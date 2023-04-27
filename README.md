@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Rain</h1>
 <h3 align="center">Full Stack Developer | Data Analyst </h3>
-<img align="center" alt="boycoding" width="500" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></img>
+<img align="right" alt="boycoding" width="200" src="https://gifdb.com/images/high/animated-man-computer-coding.gif"></img>
 <!--
 **raincouver/raincouver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
