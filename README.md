@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Rain</h1>
 <h3 align="center">Full Stack Developer | Data Analyst </h3>
-
+<img align="right" alt="boycoding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></img>
 <!--
 **raincouver/raincouver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       (Expect Graduation: June 2023)
 - 💡 I speak **English & Chinese (Mandarin)**
 
-<h3 align="left">Languages and Tools: (Web Development)</h3>
+<h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Web Development: </h4>
 <p  align="left"> 
 
@@ -73,13 +73,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/raincouver/raincouver/blob/main/image/mysql-workbench-icon.png" alt="mysql" width="40" height="40"/>
 </p>
 
+## 🔗 Let's Connect
+<p align="left">
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rainzhu.com/)
+</p>
+
+<p align="right">
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainzhu-sfu/)
+</p>
 ## 🔭 Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raincouver&show_icons=true&theme=github_dark_dimmed)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raincouver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔗 Let's Connect
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rainzhu.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainzhu-sfu/)
