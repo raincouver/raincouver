@@ -89,7 +89,7 @@
 
 <p align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raincouver&show_icons=true&theme=github_dark_dimmed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raincouver&show_icons=true&theme=default)
 
 </p>
 
