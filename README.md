@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Rain</h1>
 <h3 align="center">Full Stack Developer | Data Analyst </h3>
-<img align="right" alt="boycoding" width="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></img>
+<img align="center" alt="boycoding" width="500" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></img>
 <!--
 **raincouver/raincouver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,9 +76,6 @@
 ## 🔗 Let's Connect
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rainzhu.com/)
-
-
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainzhu-sfu/)
 
 ## 🔭 Statistics
