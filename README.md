@@ -48,26 +48,45 @@
 <!-- </a>  -->
 
 <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
-<img src="https://github.com/raincouver/raincouver/blob/main/image/postgres.png" alt="postgresql" width="40" height="40"/>
+<img src="https://github.com/raincouver/raincouver/blob/main/image/ruby.png" alt="ruby" width="40" height="40"/>
 <!-- </a>  -->
 
-<img src="https://github.com/raincouver/raincouver/blob/main/image/npm.png" alt="npm" width="40" height="40"/> 
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
+<img src="https://github.com/raincouver/raincouver/blob/main/image/rails.png" alt="rails" width="40" height="40"/>
+<!-- </a>  -->
 
 </p>
 
 <p  align="left"> 
 
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  -->
-<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  -->
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <!-- </a>  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/cypress-logo-circle-dark.png" alt="cypress" width="40" height="40"/> 
 <!-- </a>  -->
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/jest.png" alt="Jest" width="40" height="40"/> 
 <!-- </a>  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/terminal.png" alt="terminal" width="40" height="40"/>
+<!-- </a>  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
 <img src="https://github.com/raincouver/raincouver/blob/main/image/csm.png" alt="csm" width="40" height="40"/>
+<!-- </a>  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
+<img src="https://github.com/raincouver/raincouver/blob/main/image/postgres.png" alt="postgresql" width="40" height="40"/>
+<!-- </a>  -->
+
+<!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  -->
+<img src="https://github.com/raincouver/raincouver/blob/main/image/npm.png" alt="npm" width="40" height="40"/> 
+<!-- </a>  -->
+
 
 </p>
 
