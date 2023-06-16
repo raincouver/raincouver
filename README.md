@@ -18,8 +18,7 @@
 
 - 💬 Background in Business and data analytics, passionate about artificial intelligence, web and software development
 
-- 🌱 I’m currently learning Web Development at **Lighthouse Labs** 
-      (Expect Graduation: June 2023)
+- 🌱 I’m currently working on my portifolio website. 
 
 - 💡 I speak **English & Chinese (Mandarin)**
 
