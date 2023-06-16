@@ -18,7 +18,7 @@
 
 - 💬 Background in Business and data analytics, passionate about artificial intelligence, web and software development
 
-- 🌱 I’m currently working on my portifolio website. 
+- 🌱 I’m currently working on my portfolio website. 
 
 - 💡 I speak **English & Chinese (Mandarin)**
 
